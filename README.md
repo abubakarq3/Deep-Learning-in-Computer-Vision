@@ -35,7 +35,7 @@ This course introduces students to deep learning models for computer vision, wit
 - Evaluate saliency maps using metrics: **MAE**, **MSE**, **PCC**, **SSIM**
   
   <img width="471" alt="Image" src="https://github.com/user-attachments/assets/83c57a22-8062-4eaa-883f-abc0414359a2" />
-  <img width="401" alt="Image" src="https://github.com/user-attachments/assets/015718b1-4b2d-46d2-af96-be049fd5f1df" />
+  <img width="471" alt="Image" src="https://github.com/user-attachments/assets/015718b1-4b2d-46d2-af96-be049fd5f1df" />
 
 
 ### **Lab 4 – Black-Box Explanation Methods**
