@@ -1,0 +1,8 @@
+pylint
+autopep8
+jupyter
+jedi==0.17.2
+tensorflow==2.11.0 #depending on the version of install CUDA and cuDNN installed on your computer, see: https://www.tensorflow.org/install/source?hl=en#gpu
+lime
+numpy
+matplotlib
